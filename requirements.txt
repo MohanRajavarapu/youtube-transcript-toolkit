@@ -1,2 +1,3 @@
 anthropic>
 youtube-transcript-api
+streamlit>=1.30.0
